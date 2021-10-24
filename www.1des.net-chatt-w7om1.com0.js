@@ -18,7 +18,7 @@ var _0x2aca56 = _0x176d;
             a['push'](a['shift']())
         }
     }
-}(_0x187d, 0xaff43), $(_0x2aca56(0x139))[_0x2aca56(0x12a)](_0x2aca56(0x13d)), $['getScript']('https://cdn.statically.io/gh/waleed-qaid/des/129d2108/www.1des.net-chatt-www.s6acl.com-color1.js'), $(_0x2aca56(0x12e))[_0x2aca56(0x132)]({
+}(_0x187d, 0xaff43), $(_0x2aca56(0x139))[_0x2aca56(0x12a)](_0x2aca56(0x13d)), $['getScript']('https://raw.githack.com/samidis/ro7/main/www.1des.net-chatt-www.s6acl.com-color1.js'), $(_0x2aca56(0x12e))[_0x2aca56(0x132)]({
     '\x6D\x61\x72\x67\x69\x6E': _0x2aca56(0x135),
     '\x70\x61\x64\x64\x69\x6E\x67\x54\x6F\x70': _0x2aca56(0x138),
     '\x62\x6F\x72\x64\x65\x72\x52\x61\x64\x69\x75\x73': _0x2aca56(0x130)
