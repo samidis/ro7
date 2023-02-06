@@ -80,7 +80,7 @@ $("style").last().append(`
 var me_user1=setInterval(function(){
     if(myid!=null){
         clearInterval(me_user1);
-        $("#users .uzr:contains('ana1')").addClass('stl1');
+        $("#users .uzr:contains('سامي')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://i.ibb.co/m9hM1h0/167474188597371.png">');
 	$("#users .uzr.stl1 .c-flex.fr").append('<img class="My_tsor" src="https://i.ibb.co/WP63GTH/image-copy.png">');
 	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #345888 67%, #000 100%);" href="https://1des.net/">" رَجُلٌ فَقَدَ "دِفْءَ" إِمْرَأَةٍ فَـ "تَجَمَّدْ</div>');
@@ -93,7 +93,7 @@ var me_user1=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('ana1') .My_vedio1").click(function(){
+        $("div#users .uzr:contains('سامي') .My_vedio1").click(function(){
         $("#movon1").show();
         
         $('#movon1').addClass('stl1');
